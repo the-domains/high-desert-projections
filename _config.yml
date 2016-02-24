@@ -2,6 +2,7 @@ name: high desert projections
 favicon: null
 layout_spectrum: 0.28579889982938766
 typography_spectrum: 0.4563054528553039
+title: High Desert Projections
 cta:
   domain: null
   bucket: null
