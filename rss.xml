@@ -4,8 +4,15 @@
         <description><![CDATA[High Desert Projections]]></description>
         <link>https://thegrid.ai/high-desert-projections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 20:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 01:23:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/high-desert-projections/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[High Desert Notes]]></title>
+            <description><![CDATA[<h1>High Desert Notes</h1>]]></description>
+            <link>https://thegrid.ai/high-desert-projections/fc9cd5d3-e6d1-4f7e-9d64-e5af2b3a2bdf/index.html</link>
+            <guid isPermaLink="false">fc9cd5d3-e6d1-4f7e-9d64-e5af2b3a2bdf</guid>
+            <pubDate>Thu, 25 Feb 2016 01:22:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://jackrabbithomestead.com/</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/high-desert-projections/815b50b9-9bb5-4515-aa1e-a6c5b4a25595/index.html</link>
             <guid isPermaLink="false">815b50b9-9bb5-4515-aa1e-a6c5b4a25595</guid>
             <pubDate>Wed, 24 Feb 2016 18:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High Desert Motels]]></title>
-            <description><![CDATA[<h1>High Desert Motels</h1>]]></description>
-            <link>https://thegrid.ai/high-desert-projections/fc9cd5d3-e6d1-4f7e-9d64-e5af2b3a2bdf/index.html</link>
-            <guid isPermaLink="false">fc9cd5d3-e6d1-4f7e-9d64-e5af2b3a2bdf</guid>
-            <pubDate>Wed, 24 Feb 2016 18:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
